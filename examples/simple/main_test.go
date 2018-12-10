@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/altairsix/eventsource"
+	"github.com/eventsource-ecosystem/eventsource"
 	"github.com/stretchr/testify/assert"
 )
 

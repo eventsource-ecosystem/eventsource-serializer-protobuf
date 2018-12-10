@@ -11,7 +11,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/altairsix/eventsource"
+	"github.com/eventsource-ecosystem/eventsource"
 	"github.com/gogo/protobuf/proto"
 )
 

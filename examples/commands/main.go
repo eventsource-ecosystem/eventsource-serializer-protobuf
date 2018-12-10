@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/altairsix/eventsource"
+	"github.com/eventsource-ecosystem/eventsource"
 )
 
 //go:generate protoc -I .:$GOPATH/src:$GOPATH/src/github.com/gogo/protobuf/protobuf --gogo_out=. commands.proto

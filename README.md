@@ -1,11 +1,11 @@
 # eventsource-protobuf
 
-protoc plugin to generate eventsource.Serializers for github.com/altairsix/eventsource
+protoc plugin to generate eventsource.Serializers for github.com/eventsource-ecosystem/eventsource
 
 ## Installation
 
 ```
-go get github.com/altairsix/eventsource-protobuf/...
+go get github.com/eventsource-ecosystem/eventsource-serializer-protobuf/...
 ```
 
 ## Usage
