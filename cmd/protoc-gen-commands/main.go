@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/altairsix/eventsource-protobuf/cmd/protoc-gen-commands/generate"
+	"github.com/eventsource-ecosystem/eventsource-serializer-protobuf/cmd/protoc-gen-commands/generate"
 	"github.com/gogo/protobuf/proto"
 	"github.com/gogo/protobuf/protoc-gen-gogo/plugin"
 )
